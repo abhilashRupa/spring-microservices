@@ -1,0 +1,3 @@
+[submodule "indiatel-monolithic"]
+	path = indiatel-monolithic
+	url = git@github.com:abhilashRupa/indiatel-monolithic.git

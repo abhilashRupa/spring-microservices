@@ -1,3 +1,6 @@
 [submodule "indiatel-monolithic"]
 	path = indiatel-monolithic
 	url = git@github.com:abhilashRupa/indiatel-monolithic.git
+[submodule "spring-cloud"]
+	path = spring-cloud
+	url = git@github.com:abhilashRupa/spring-cloud.git
